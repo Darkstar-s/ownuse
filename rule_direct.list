@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,jetbrains.com
-DOMAIN,dl-a10b-*.mypikpak.com
+
+#pikpak在线观看和下载规则
+DOMAIN-REGEX,^dl-a10b-.*\.mypikpak\.com$
+
