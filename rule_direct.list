@@ -1,2 +1,2 @@
 DOMAIN-SUFFIX,jetbrains.com
-(DOMAIN-SUFFIX,mypikpak.com)&(DOMAIN-KEYWORD,dl-a10b-)
+DOMAIN,dl-a10b-*.mypikpak.com
