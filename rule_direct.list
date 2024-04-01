@@ -1,5 +1,4 @@
 DOMAIN-SUFFIX,jetbrains.com
 
 #pikpak在线观看和下载规则
-DOMAIN-REGEX,^dl-a10b-.*\.mypikpak\.com$
-
+AND,DOMAIN-KEYWORD,dl-a10b-,DOMAIN-SUFFIX,mypikpak.com,DIRECT
