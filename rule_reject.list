@@ -1,12 +1,12 @@
 DOMAIN,appstore.browser.qq.com
-DOMAIN,trpc.gamecenter.qq.com
+DOMAIN-SUFFIX,gamecenter.qq.com
 DOMAIN,softfile.3g.qq.com
 DOMAIN,tianshu.gtimg.cn
 DOMAIN,3gimg.qq.com
 DOMAIN,report.gamecenter.qq.com
 DOMAIN,c.gsc.qq.com
 DOMAIN,report.url.cn
-DOMAIN,img.gamecenter.qq.com
+
 DOMAIN,master.etl.desktop.qq.com
 DOMAIN,ykf-webchat.7moor.com
 
