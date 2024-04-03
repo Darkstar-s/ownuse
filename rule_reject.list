@@ -9,3 +9,7 @@ DOMAIN-SUFFIX,report.url.cn
 DOMAIN-SUFFIX,img.gamecenter.qq.com
 DOMAIN-SUFFIX,master.etl.desktop.qq.com
 DOMAIN-SUFFIX,ykf-webchat.7moor.com
+
+DOMAIN-SUFFIX,tt.cn
+DOMAIN-SUFFIX,beizi.biz
+DOMAIN,tpstelemetry.tencent.com
