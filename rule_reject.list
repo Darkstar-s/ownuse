@@ -1,14 +1,14 @@
-DOMAIN-SUFFIX,appstore.browser.qq.com
-DOMAIN-SUFFIX,trpc.gamecenter.qq.com
-DOMAIN-SUFFIX,softfile.3g.qq.com
-DOMAIN-SUFFIX,tianshu.gtimg.cn
-DOMAIN-SUFFIX,3gimg.qq.com
-DOMAIN-SUFFIX,report.gamecenter.qq.com
-DOMAIN-SUFFIX,c.gsc.qq.com
-DOMAIN-SUFFIX,report.url.cn
-DOMAIN-SUFFIX,img.gamecenter.qq.com
-DOMAIN-SUFFIX,master.etl.desktop.qq.com
-DOMAIN-SUFFIX,ykf-webchat.7moor.com
+DOMAIN,appstore.browser.qq.com
+DOMAIN,trpc.gamecenter.qq.com
+DOMAIN,softfile.3g.qq.com
+DOMAIN,tianshu.gtimg.cn
+DOMAIN,3gimg.qq.com
+DOMAIN,report.gamecenter.qq.com
+DOMAIN,c.gsc.qq.com
+DOMAIN,report.url.cn
+DOMAIN,img.gamecenter.qq.com
+DOMAIN,master.etl.desktop.qq.com
+DOMAIN,ykf-webchat.7moor.com
 
 DOMAIN-SUFFIX,tt.cn
 DOMAIN-SUFFIX,beizi.biz
