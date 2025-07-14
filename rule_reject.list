@@ -14,5 +14,5 @@ DOMAIN-SUFFIX,tt.cn
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN,tpstelemetry.tencent.com
 
-otheve.beacon.qq.com
-business-ad.cdn-go.cn
+DOMAIN,otheve.beacon.qq.com
+DOMAIN,business-ad.cdn-go.cn
