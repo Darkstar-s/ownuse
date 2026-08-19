@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,jetbrains.com
 IP-CIDR,47.79.0.0/20
+
+# Github下载域名
+DOMAIN,release-assets.githubusercontent.com
